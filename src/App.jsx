@@ -6,9 +6,11 @@ import Profile from "./Pages/Profile";
 function App() {
   let router = createBrowserRouter(createRoutesFromElements(
     <>
-      <Route path="/" element={<ChatLists />} />
-      <Route path="/chatBox" element={<WhatsAppChat />} />
-      <Route path="/contact" element={<Profile />} />
+      <Route>
+        <Route path="/" element={<ChatLists />} />
+        <Route path="/chatBox" element={<WhatsAppChat />} />
+        <Route path="/contact" element={<Profile />} />
+      </Route>
     </>
   ))
 
