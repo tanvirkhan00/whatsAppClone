@@ -7,7 +7,7 @@ function App() {
   let router = createBrowserRouter(createRoutesFromElements(
     <>
       <Route path="/" element={<ChatLists />} />
-      <Route path="/profile" element={<WhatsAppChat />} />
+      <Route path="/chatBox" element={<WhatsAppChat />} />
       <Route path="/contact" element={<Profile />} />
     </>
   ))

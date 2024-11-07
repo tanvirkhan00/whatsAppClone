@@ -70,7 +70,7 @@ const Chats = () => {
                                     <img src={image3} alt="Image" />
                                 </div>
                                 <div className='basis-[85%] border-b-2 pb-1'>
-                                    <Link to="/profile">
+                                    <Link to="/chatBox">
                                         <div className='flex items-center  justify-between'>
                                             <h2 className='text-[16px] font-semibold'>Elisa das Zoho</h2>
                                             <h4 className='text-[14px] text-slate-500'>Yesterday</h4>
