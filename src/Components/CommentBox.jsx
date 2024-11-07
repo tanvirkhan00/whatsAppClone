@@ -2,7 +2,7 @@ import React from 'react';
 
 // Image
 import sent from "../assets/sent.png"
-import imoj from "../assets/Imog.png"
+import imoj from "../assets/imog.png"
 import emoj2 from "../assets/emoj2.png"
 import speaker from "../assets/speacker.png"
 
