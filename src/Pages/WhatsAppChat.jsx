@@ -1,15 +1,15 @@
 import React from 'react';
 import Header from '../Components/Header';
-import Profile from '../Components/Profile';
 import CommentBox from '../Components/CommentBox';
 import MessageBoxFooter from '../Components/MessageBoxFooter';
+import NameBox from '../Components/NameBox';
 
 const WhatsAppChat = () => {
     return (
         <>
 
             <Header />
-            <Profile />
+            <NameBox />
             <CommentBox />
             <MessageBoxFooter />
         </>
