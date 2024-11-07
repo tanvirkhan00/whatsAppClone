@@ -14,8 +14,8 @@ import { FaChevronRight } from "react-icons/fa6";
 
 
 // Images
-import image from "/src/assets/Image2.png"
-import currency from "/src/assets/currency.png"
+import image from "../assets/Image2.png"
+import currency from "../assets/currency.png"
 
 const ContactBox = () => {
     return (

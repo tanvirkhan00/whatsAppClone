@@ -12,15 +12,15 @@ import { IoCamera } from "react-icons/io5";
 
 
 // Images
-import image1 from "/src/assets/Oval.png"
-import image2 from "/src/assets/Image2.png"
-import image3 from "/src/assets/Image3.png"
-import image4 from "/src/assets/Image4.png"
-import image5 from "/src/assets/Image5.png"
-import image6 from "/src/assets/Image6.png"
-import image7 from "/src/assets/Image7.png"
-import image8 from "/src/assets/Image8.png"
-import image9 from "/src/assets/Image9.png"
+import image1 from "../assets/Oval.png"
+import image2 from "../assets/Image2.png"
+import image3 from "../assets/Image3.png"
+import image4 from "../assets/Image4.png"
+import image5 from "../assets/Image5.png"
+import image6 from "../assets/Image6.png"
+import image7 from "../assets/Image7.png"
+import image8 from "../assets/Image8.png"
+import image9 from "../assets/Image9.png"
 
 
 const Chats = () => {

@@ -6,13 +6,11 @@ export default {
   ],
   theme: {
     screens:{
-      "sm" : '375px',
-      'md': '768px',
-      'lg': '1024px',
+      DEFAULT:'375px',
     },
     extend: {
       backgroundImage:{
-        "bgChat" :"url('/src/assets/bgImage.png')",
+        "bgChat" :"url('./assets/bgImage.png')",
       }
     },
       container: {

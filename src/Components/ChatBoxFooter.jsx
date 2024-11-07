@@ -1,11 +1,11 @@
 import React from 'react';
 
 // Image
-import update from "/src/assets/update.png"
-import call from "/src/assets/Call.png"
-import communicate from "/src/assets/communication.png"
-import chat from "/src/assets/Message.png"
-import setting from "/src/assets/Setting.png"
+import update from "../assets/update.png"
+import call from "../assets/Call.png"
+import communicate from "../assets/communication.png"
+import chat from "../assets/Message.png"
+import setting from "../assets/Setting.png"
 
 const ChatBoxFooter = () => {
     return (

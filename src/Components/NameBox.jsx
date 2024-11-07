@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Image
-import image3 from "/src/assets/Image3.png"
+import image3 from "../assets/Image3.png"
 
 // Icon
 import { FaChevronLeft } from "react-icons/fa6";

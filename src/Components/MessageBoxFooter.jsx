@@ -1,11 +1,11 @@
 import React from 'react';
 
 // Images
-import plus from "/src/assets/plus.png"
-import docs from "/src/assets/docs.png"
-import currency from "/src/assets/currency.png"
-import camera from "/src/assets/camera.png"
-import microphone from "/src/assets/microphone.png"
+import plus from "../assets/plus.png"
+import docs from "../assets/docs.png"
+import currency from "../assets/currency.png"
+import camera from "../assets/camera.png"
+import microphone from "../assets/microphone.png"
 
 
 const MessageBoxFooter = () => {

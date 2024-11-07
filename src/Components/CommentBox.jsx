@@ -1,10 +1,10 @@
 import React from 'react';
 
 // Image
-import sent from "/src/assets/sent.png"
-import imoj from "/src/assets/Imog.png"
-import emoj2 from "/src/assets/emoj2.png"
-import speaker from "/src/assets/speacker.png"
+import sent from "../assets/sent.png"
+import imoj from "../assets/Imog.png"
+import emoj2 from "../assets/emoj2.png"
+import speaker from "../assets/speacker.png"
 
 
 // Icon
