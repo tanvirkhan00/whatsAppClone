@@ -6,13 +6,13 @@ export default {
   ],
   theme: {
     screens:{
-      "sm" : "375px",
+      "sm" : '375px',
       'md': '768px',
       'lg': '1024px',
     },
     extend: {
       backgroundImage:{
-        "bgChat" :"url('/src/assets/bgImage.png')"
+        "bgChat" :"url('/src/assets/bgImage.png')",
       }
     },
       container: {
@@ -20,7 +20,7 @@ export default {
         padding: {
           DEFAULT:'1rem',
         }
-      }
+      },
     },
   plugins: [],
 }

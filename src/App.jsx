@@ -1,7 +1,8 @@
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from "react-router-dom";
-import ChatLists from "./Pages/ChatLists"
+// import ChatLists from "./Pages/ChatLists"
 import WhatsAppChat from "./Pages/WhatsAppChat"
 import Profile from "./Pages/Profile";
+import ChatLists from "./Pages/ChatLists";
 
 function App() {
   let router = createBrowserRouter(createRoutesFromElements(
